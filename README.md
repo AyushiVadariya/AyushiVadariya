@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- Languages: **C, C++, Java, Python, HTML, CSS, JavaScript**  
+- Languages: **C, C++, Java, Python, HTML**  
 - Tools: **Git, GitHub, VS Code**  
 - Special: **Problem Solving, AI/ML Basics, Arduino Projects**  
 
